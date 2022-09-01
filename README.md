@@ -8,6 +8,8 @@ First things first, take some time before you start the task to read through our
 
 [read the notes plz](https://notes.northcoders.com/courses/js-intro-week/regex)
 
-Now you're ready to start the task, have a look at `regex.js`, this should give you instruction of how to get going.
+Now you're ready to start the task, fork and clone this repository and have a look at `regex.js` - this should give you instruction of how to get going.
 
-If you want to run the file you can do so by checking your location in the terminal with `pwd` and using node - `node regex.js`
+If you want to run the file you can do so by checking your location in the terminal with `pwd` and using node - `node regex.js`.
+
+Remember to keep up those git practices of adding, committing and pushing your changes.
