@@ -1,4 +1,4 @@
-# Regex Morning Task
+# Regex Morning Task
 
 This morning is your chance to get to grips with Regex, we wont be going on a deep dive into regex we are really just going to scratch the surface, Regex is a very powerful tool and this task is mostly here to build awareness.
 
